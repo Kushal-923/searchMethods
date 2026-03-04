@@ -4,7 +4,7 @@ This project implements several **Uninformed Search Strategies** using the class
 
 ## Author
 
-Kushal Pandey
+Kushal Pandey (SE24UCSE068)
 
 ---
 
